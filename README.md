@@ -1,6 +1,6 @@
 # issue-doctrine-composite-pk-qb-usage
 
-A short repo that reproduce a specific problem of using composite PKs in Doctrine ORM in query builder.
+A short repo that reproduce a [specific problem](https://github.com/doctrine/orm/issues/8143) of using composite PKs in Doctrine ORM in query builder.
 
 # Getting started
 
